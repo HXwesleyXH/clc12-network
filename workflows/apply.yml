@@ -1,11 +1,6 @@
 name: Cloud Infrastructure Automation - MBA em Cloud Computing & DevOps
 
 on:
-  push:
-    branches:
-      - main
-    paths-ignore:
-      - '.github/**'
   workflow_dispatch:
 
 env:
