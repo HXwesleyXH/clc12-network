@@ -1,4 +1,4 @@
-name: Cloud Infrastructure Automation - MBA em Cloud Computing & DevOps
+name: terraform destroy
 
 on:
   workflow_dispatch:
